@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Development-yellow?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-E60012?style=flat-square&logo=nintendo-switch&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![License](https://img.shields.io/github/license/cbreezy210/TimeStranger-NX?style=flat-square&color=blue)
+![License](https://img.shields.io/github/license/cbreezy210/TimeStranger-NX?style=flat-square&color=blue&cachebust=1)
 
 ---
 
