@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+# Switch homebrew build artifacts
+*.elf
+*.nro
+*.nacp
+*.npdm
