@@ -52,6 +52,12 @@ make clean
 make
 ```
 
+## 🔗 Explore More Projects
+- 🏠 **[cbreezy210 Main Profile](https://github.com/cbreezy210)** – See all my tools, AI projects, and community updates.
+- 🦖 **[TimeStranger-NX](https://github.com/cbreezy210/TimeStranger-NX)** – Native Digimon Story: Time Stranger Save Editor.
+- 🎮 **[PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)** – Native Pokémon SV Save Editor.
+- 🍃 **[ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)** – Native Animal Crossing companion tool.
+
 ## 🙏 Credits
 * **devkitPro and libnx communities** — Switch homebrew tooling: https://devkitpro.org
 * **The GBATemp & r/HomebrewSwitch communities** — for early testing, hardware validation, and relentless feedback
