@@ -21,6 +21,11 @@ Unlike traditional methods that require you to dump your save to the SD card via
 - 🛡️ **Safe Writes**: Utilizes `fsFsCommit()` to ensure data integrity and prevent silent rollbacks.
 - 🖥️ **Native C++ UI**: Clean, console-optimized interface built with `libnx`.
 
+## 🚧 Roadmap (Coming Soon)
+- [ ] Advanced item/monster editing
+- [ ] Full save slot management
+- [ ] Public v1.0.0 Release
+
 ## 📥 Installation
 1. Download the latest `TimeStranger-NX.nro` from the [Releases](../../releases) page.
 2. Place the `.nro` file in your `/switch/TimeStranger-NX/` folder on your SD card.
