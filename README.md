@@ -1,4 +1,4 @@
-# TimeStranger-NX 🎮
+# TimeStranger-NX 💩
 **The first native Switch save editor for Digimon Story: Time Stranger.**
 
 ![Status](https://img.shields.io/badge/Status-Active%20Development-yellow?style=flat-square)
