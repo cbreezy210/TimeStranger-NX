@@ -1,4 +1,5 @@
 # TimeStranger-NX 💩
+> 💩 *Yes, the poop emoji is canonical. Sukamon approves. Every save editor needs a mascot — ours just happens to be a Digimon.*
 **The first native Switch save editor for Digimon Story: Time Stranger.**
 
 ![Status](https://img.shields.io/badge/Status-Active%20Development-yellow?style=flat-square)
