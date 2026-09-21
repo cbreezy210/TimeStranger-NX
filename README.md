@@ -29,9 +29,17 @@ Unlike traditional methods that require you to dump your save to the SD card via
 - [ ] Public v1.0.0 Release
 
 ## 📥 Installation
-1. Download the latest `TimeStranger-NX.nro` from the [Releases](../../releases) page.
-2. Place the `.nro` file in your `/switch/TimeStranger-NX/` folder on your SD card.
-3. Launch the app via your Homebrew Menu (Sphaira/Atmosphere).
+
+   > **⚠️ Status: Pre-release.** TimeStranger-NX is in active development — no public `.nro` builds are posted yet. Until v1.0.0 drops, build it yourself using the **Building from Source** section below. Prebuilt releases will appear on the [Releases page](https://github.com/cbreezy210/TimeStranger-NX/releases) at launch.
+
+   **Standard install (once v1.0.0 is live):**
+   1. Download the latest `TimeStranger-NX.nro` from the Releases page.
+   2. Place the `.nro` file in your `/switch/TimeStranger-NX/` folder on your SD card.
+   3. Launch the app via your Homebrew Menu (Sphaira/Atmosphere).
+
+   **Right now (developers & testers):**
+   1. Build from source (see below), then copy the resulting `.nro` to `/switch/TimeStranger-NX/` on your SD card.
+   2. Launch via your Homebrew Menu (Sphaira/Atmosphere).
 
 ## 🕹️ Usage & Controls
 1. **Important:** Fully close *Digimon Story: Time Stranger* (Home Menu -> X -> Close Software) before launching the editor.
