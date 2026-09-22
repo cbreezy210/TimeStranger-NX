@@ -72,6 +72,13 @@ make
 - 🔴⚪️ **[PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)** – Native Pokémon SV Save Editor.
 - 🍃 **[ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)** – Native Animal Crossing companion tool.
 
+## 🤝 Contributing
+Contributions welcome! The most useful ways to help:
+- **Report issues** with the 5-answer checklist from Troubleshooting (tool + version, install type, what didn't stick, error vs. silent revert, game fully closed?).
+- **Save-format research:** PRs with verified offsets/checksums — include your diff method and dump tooling.
+- **Docs & accessibility guides:** wiki improvements and walkthroughs (micaturtle's accessibility guide set the bar!).
+Open an issue before large refactors so we can align on scope.
+
 ## 🙏 Credits
 * **devkitPro and libnx communities** — Switch homebrew tooling: https://devkitpro.org
 * **The GBATemp & r/HomebrewSwitch communities** — for early testing, hardware validation, and relentless feedback
