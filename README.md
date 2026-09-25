@@ -57,7 +57,7 @@ Unlike traditional methods that require you to dump your save to the SD card via
 - **Offsets**:
   - **Yen**: `0x7973` (u32 Little-Endian)
 
-💬 **From the Trenches**
+## 💬 **From the Trenches**
 > *"direct NAND save interaction is fucking sick"*  
 > — u/Duffmcmcmcwhalen, r/SwitchHacks
 
