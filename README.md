@@ -57,6 +57,16 @@ Unlike traditional methods that require you to dump your save to the SD card via
 - **Offsets**:
   - **Yen**: `0x7973` (u32 Little-Endian)
 
+💬 **From the Trenches**
+> *"direct NAND save interaction is fucking sick"*  
+> — u/Duffmcmcmcwhalen, r/SwitchHacks
+
+> *"YO THIS IS INSANE. HUGE PROPS"*  
+> — u/riskyjones, r/SwitchHacks
+
+> *"Probably stats atm just so I can clear certain areas lol"* (Now tracked in [Issue #1: Value Hunter](https://github.com/cbreezy210/TimeStranger-NX/issues/1))  
+> — u/riskyjones, r/SwitchHacks
+
 ## 🛠️ Building from Source
 Requires [devkitPro](https://devkitpro.org/) and `libnx`.
 
