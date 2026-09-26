@@ -77,10 +77,10 @@ make clean
 make
 ```
 
-## 🔗 Explore More Projects
-- 🏠 **[cbreezy210 Main Profile](https://github.com/cbreezy210)** – See all my tools, AI projects, and community updates.
-- 🔴⚪️ **[PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)** – Native Pokémon SV Save Editor.
-- 🍃 **[ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)** – Native Animal Crossing companion tool.
+## 🔗 Explore the Native Switch Ecosystem
+- 🏠 **[cbreezy210 Main Profile](https://github.com/cbreezy210)** – See my AI projects, developer tools, and community updates.
+- 🔴⚪️ **[PKHeX-NX](https://github.com/cbreezy210/PKHeX-NX)** – Native Pokémon SV (Gen 9) Save Editor. No PC required.
+- 🍃 **[ACNH-Save-Editor](https://github.com/cbreezy210/ACNH-Save-Editor)** – Native Animal Crossing companion tool. Wallet, Bank & Loan edits.
 
 ## 🤝 Contributing
 Contributions welcome! The most useful ways to help:
