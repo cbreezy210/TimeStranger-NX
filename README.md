@@ -1,7 +1,7 @@
 # TimeStranger-NX 💩
 > 💩 *Yes, the poop emoji is canonical. Sukamon approves. Every save editor needs a mascot - ours just happens to be a Digimon.*
 
-**The first native Switch save editor for Digimon Story: Time Stranger.**
+**The first native Switch save editor for *Digimon Story: Time Stranger*.**
 
 ![Status](https://img.shields.io/badge/Status-Active%20Development-yellow?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-E60012?style=flat-square&logo=nintendo-switch&logoColor=white)
@@ -23,23 +23,25 @@ Unlike traditional methods that require you to dump your save to the SD card via
 - 🛡️ **Safe Writes**: Utilizes `fsFsCommit()` to ensure data integrity and prevent silent rollbacks.
 - 🖥️ **Native C++ UI**: Clean, console-optimized interface built with `libnx`.
 
-## 🚧 Roadmap (Coming Soon)
-- [ ] Advanced item/monster editing
-- [ ] Full save slot management
-- [ ] Public v1.0.0 Release
+## 🗺️ Roadmap & Development Status
+For a detailed breakdown of shipped features, upcoming milestones, and target release timelines, check out the **[Full Public Roadmap](ROADMAP.md)**.
+
+**Current Focus (v1.0.0):**
+- [ ] **Value Hunter:** Native in-app scanner for finding XP/stat offsets (read-only diffing).
+- [ ] **Core Stats:** Verified offsets and safe clamping for Digimon & Trainer stats.
+- [ ] **Public Release:** First stable, pre-compiled `.nro` binary available on the Releases page.
 
 ## 📥 Installation
+> **⚠️ Status: Pre-release.** TimeStranger-NX is in active development — no public `.nro` builds are posted yet. Until v1.0.0 drops, build it yourself using the **Building from Source** section below. Prebuilt releases will appear on the [Releases page](https://github.com/cbreezy210/TimeStranger-NX/releases) at launch.
 
-   > **⚠️ Status: Pre-release.** TimeStranger-NX is in active development — no public `.nro` builds are posted yet. Until v1.0.0 drops, build it yourself using the **Building from Source** section below. Prebuilt releases will appear on the [Releases page](https://github.com/cbreezy210/TimeStranger-NX/releases) at launch.
+**Standard install (once v1.0.0 is live):**
+1. Download the latest `TimeStranger-NX.nro` from the Releases page.
+2. Place the `.nro` file in your `/switch/TimeStranger-NX/` folder on your SD card.
+3. Launch the app via your Homebrew Menu (Sphaira/Atmosphere).
 
-   **Standard install (once v1.0.0 is live):**
-   1. Download the latest `TimeStranger-NX.nro` from the Releases page.
-   2. Place the `.nro` file in your `/switch/TimeStranger-NX/` folder on your SD card.
-   3. Launch the app via your Homebrew Menu (Sphaira/Atmosphere).
-
-   **Right now (developers & testers):**
-   1. Build from source (see below), then copy the resulting `.nro` to `/switch/TimeStranger-NX/` on your SD card.
-   2. Launch via your Homebrew Menu (Sphaira/Atmosphere).
+**Right now (developers & testers):**
+1. Build from source (see below), then copy the resulting `.nro` to `/switch/TimeStranger-NX/` on your SD card.
+2. Launch via your Homebrew Menu (Sphaira/Atmosphere).
 
 ## 🕹️ Usage & Controls
 1. **Important:** Fully close *Digimon Story: Time Stranger* (Home Menu -> X -> Close Software) before launching the editor.
@@ -57,7 +59,7 @@ Unlike traditional methods that require you to dump your save to the SD card via
 - **Offsets**:
   - **Yen**: `0x7973` (u32 Little-Endian)
 
-## 💬 **From the Trenches**
+## 💬 From the Trenches
 > *"direct NAND save interaction is fucking sick"*  
 > — u/Duffmcmcmcwhalen, r/SwitchHacks
 
